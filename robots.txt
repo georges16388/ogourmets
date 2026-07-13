@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://georges16388.github.io/ogourmets/sitemap.xml
